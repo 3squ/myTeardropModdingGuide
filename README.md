@@ -1,1 +1,2 @@
-# myTeardropModdingGuide
+# myTeardrop Modding Guide
+Check WIKI
